@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Amna-hassan22
-- 👀 I’m interested in Front end web development, Python programming.
-- 🌱 I’m currently learning Python programming.
+- 👀 I’m interested in Front end web development.
+
 - 📫 How to reach me amnahassan14a@gmail.com 
 - 😄 Pronouns: She/Her
 
